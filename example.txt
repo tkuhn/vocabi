@@ -1,0 +1,7 @@
+dog  n.:der Hund:5
+cat  n.:die Katze:5
+tomcat  n.:der Kater:3
+hangover  n.:der Kater:0
+black  adj.:schwarz  adj.:5
+see  v.:sehen  v.:1
+drink  v.:trinken  v.:2
